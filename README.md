@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Madhav Madhusoodanan, but my friends call me.... maddy 🙃🙃
-
+- ⚡ I have experience in Web development technologies like React, Express, Bootstrap css/Tailwind css, and App development technologies like React Native
 - 🌱 I’m currently learning Next.js, Blender/Three.js, Cryptography, Machine Learning, Quantum computing and Blockchains 😜
 - 👯 I’m looking to collaborate on [Neural Networks](https://github.com/madhav-madhusoodanan/neural-networks)
 - 🔭 I’m currently working on [Chillax](https://github.com/madhav-madhusoodanan/Chillax)
