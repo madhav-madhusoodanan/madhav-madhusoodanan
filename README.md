@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - 🔭 I’m working on [Chillax](https://github.com/madhav-madhusoodanan/Chillax)
 -->
 I am Madhav Madhusoodanan, but my friends call me.... maddy 🙃🙃
-- ⚡ I have experience in Web development technologies like React, Express, Bootstrap css/Tailwind css, and App development technologies like React Native
-- 🌱 I’m currently learning Next.js, Blender/Three.js, Cryptography, Machine Learning, Quantum computing and Blockchains 😜
+- ⚡ I have experience in Web development technologies like React, Express, Bootstrap css/Tailwind css, and App development technologies like React Native and Flutter
+- 🌱 I’m currently learning Next.js, Blender/Three.js, Cryptography, Machine Learning, Quantum Computing and Blockchains 😜
 - 👯 I’m looking to collaborate on [Neural Networks](https://github.com/madhav-madhusoodanan/neural-networks)
 - 🌟 I'm currently a part of [Genesis](https://github.com/decentralised-everything)
 - 😄 I work on roleplaying projects like [Edon](https://github.com/madhav-madhusoodanan/edon) in my free time 🙃
 - My alter ego is [Supercalifragilisticpialidocius](https://github.com/Supercalifragilisticpialidocius)
-- Andddd...I ❤️ talking about Life 
+- Andddd...I ❤️ playing football 🌟
 
 [![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhav-madhusoodanan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
