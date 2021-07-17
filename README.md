@@ -23,6 +23,7 @@ I am Madhav Madhusoodanan, but my friends call me...maddy 🙃🙃
 - 🌟 I'm currently a part of [Genesis](https://github.com/decentralised-everything)
 - 😄 I work on roleplaying projects like [Edon](https://github.com/madhav-madhusoodanan/edon) in my free time 🙃
 - My alter ego is [Supercalifragilisticpialidocius](https://github.com/Supercalifragilisticpialidocius)
+- My behance profile right [over here](https://www.behance.net/madhav_madhusoodanan/)
 - Andddd...I ❤️ playing football 🌟
 
 [![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhav-madhusoodanan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
