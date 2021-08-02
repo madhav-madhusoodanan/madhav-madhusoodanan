@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m working on [Chillax](https://github.com/madhav-madhusoodanan/Chillax)
 -->
 I am Madhav Madhusoodanan, but my friends call me...maddy 🙃🙃
-- ⚡ Worked with web development tech (React, Express, Bootstrap css/Tailwind css) and app development tech (React Native and Flutter)
+- ⚡ Worked with web dev tech (React, Express, Bootstrap css/Tailwind css) and app dev tech (React Native and Flutter)
 - 🌟 I’m proficient in C/C++, Python and Typescript
 - 🌱 I’m currently learning Next.js, UI/UX design, Cryptography, Quantum Computing, Rust and [Blockchains](https://github.com/madhav-madhusoodanan/blockchain) 😜
 - 👯 I’m looking to collaborate on [Neural Networks](https://github.com/madhav-madhusoodanan/neural-networks)
