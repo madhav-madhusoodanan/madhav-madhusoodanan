@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am Madhav Madhusoodanan, but my friends call me...maddy 🙃🙃
 - ⚡ Worked with web development tech like React, Express, Bootstrap css/Tailwind css, and app development tech like React Native and Flutter
 - 🌟 I’m proficient in C/C++, Python and Typescript
-- 🌱 I’m currently learning Next.js, UI/UX design, Cryptography, Quantum Computing, Rust and Blockchains (I'm building my own blockchain [here](https://github.com/madhav-madhusoodanan/blockchain)) 😜
+- 🌱 I’m currently learning Next.js, UI/UX design, Cryptography, Quantum Computing, Rust and [Blockchains](https://github.com/madhav-madhusoodanan/blockchain) 😜
 - 👯 I’m looking to collaborate on [Neural Networks](https://github.com/madhav-madhusoodanan/neural-networks)
 - 🌟 I'm currently a part of [Genesis](https://github.com/decentralised-everything)
 - 😄 I work on roleplaying projects like [Edon](https://github.com/madhav-madhusoodanan/edon) in my free time 🙃
