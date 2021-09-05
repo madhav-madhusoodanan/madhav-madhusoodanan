@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 I am Madhav Madhusoodanan, but my friends call me...maddy 🙃🙃
 - ⚡ Worked with web dev tech (React, Express, Bootstrap css/Tailwind css) and app dev tech (React Native and Flutter)
 - 🌟 I’m proficient in C/C++, Python and Typescript
-- 🌱 I’m currently learning Next.js, UI/UX design, Cryptography, Quantum Computing, Rust and [Blockchains](https://github.com/madhav-madhusoodanan/blockchain) 😜
+- 🌱 I’m currently learning UI/UX design, Cryptography, Quantum Computing, Rust and [Blockchains](https://github.com/madhav-madhusoodanan/blockchain) 😜
 - 👯 I’m looking to collaborate on [Neural Networks](https://github.com/madhav-madhusoodanan/neural-networks)
 - 🌟 I'm currently a part of [Genesis](https://github.com/decentralised-everything)
-- 😄 I work on roleplaying projects like [Edon](https://github.com/madhav-madhusoodanan/edon) in my free time 🙃
+- 😄 I work on random projects like [the brainfuck compiler](https://github.com/madhav-madhusoodanan/brainfuck) in my free time 🙃
 - My alter ego is [Supercalifragilisticpialidocius](https://github.com/Supercalifragilisticpialidocius)
-- My behance profile right [over here](https://www.behance.net/madhav_madhusoodanan/)
+<!-- - My behance profile right [over here](https://www.behance.net/madhav_madhusoodanan/) -->
 - Andddd...I ❤️ playing football 🌟
 
 [![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhav-madhusoodanan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
