@@ -4,7 +4,7 @@ I am Madhav Madhusoodanan, but my friends call me...maddy 🙃🙃 <br />
 I aim to change the world by redistributing the power of network governance to the people of the world. 🔥 <br />
 - ⚡ Worked with web dev tech (React, Express, Bootstrap css/Tailwind css) and app dev tech (React Native and Flutter)
 - 🌟 I’m proficient in C/C++, Python and Typescript
-- 🌱 I’m currently learning UI/UX design, Cryptography, Quantum Computing, Rust and [Blockchains](https://github.com/madhav-madhusoodanan/blockchain) 😜
+- 🌱 I’m currently learning UI/UX design, 3d graphics, Cryptography, Rust and [Blockchains](https://github.com/madhav-madhusoodanan/blockchain) 😜
 - 👯 I’m looking to collaborate on [The language design committee](https://github.com/madhav-madhusoodanan/language-design-committee)
 - 🌟 I'm currently a part of [Genesis](https://github.com/decentralised-everything)
 - 😄 I work on random projects like [the brainfuck compiler](https://github.com/madhav-madhusoodanan/brainfuck) and [Prolog](https://github.com/madhav-madhusoodanan/prolog) in my free time 🙃
