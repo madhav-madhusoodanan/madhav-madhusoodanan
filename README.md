@@ -8,12 +8,13 @@ I aim to change the world by redistributing the power of network governance to t
 - 👯 I’m looking to collaborate on [The language design committee](https://github.com/madhav-madhusoodanan/language-design-committee)
 - 🌟 I'm currently a part of [Genesis](https://github.com/decentralised-everything)
 - 😄 I work on random projects like [the brainfuck compiler](https://github.com/madhav-madhusoodanan/brainfuck) and [Prolog](https://github.com/madhav-madhusoodanan/prolog) in my free time 🙃
-- My alter ego is [Supercalifragilisticpialidocius](https://github.com/Supercalifragilisticpialidocius) <br /><br />
+- My alter ego is [Supercalifragilisticpialidocius](https://github.com/Supercalifragilisticpialidocius) <br />
 
-I ❤️ playing football 🌟
 
 [![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhav-madhusoodanan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+(btw, I ❤️ playing football 🌟)
 
 <!--  The original halp that github generously gave
 **madhav-madhusoodanan/madhav-madhusoodanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
