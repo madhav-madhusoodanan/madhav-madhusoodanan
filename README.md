@@ -7,7 +7,7 @@ I aim to change the world by redistributing the power of network governance to t
 - 🌱 I’m currently learning UI/UX design, 3d graphics, Cryptography, Rust and [Blockchains](https://github.com/madhav-madhusoodanan/blockchain) 😜
 - 👯 I’m looking to collaborate on [Lucid language design](https://github.com/madhav-madhusoodanan/language-design-committee) and the whitepaper development for my [blockchain](https://github.com/madhav-madhusoodanan/blockchain)
 - 🌟 I'm currently a part of [Genesis](https://github.com/decentralised-everything)
-- 😄 I work on random projects like [the brainfuck compiler](https://github.com/madhav-madhusoodanan/brainfuck) and [Prolog](https://github.com/madhav-madhusoodanan/prolog) in my free time 🙃
+- 😄 I work on random projects like [the brainfuck compiler](https://github.com/madhav-madhusoodanan/brainfuck) and [Prolog](https://github.com/madhav-madhusoodanan/prolog) and [Specter](https://github.com/madhav-madhusoodanan/specter) in my free time 🙃
 - My alter ego is [Supercalifragilisticpialidocius](https://github.com/Supercalifragilisticpialidocius) <br />
 
 
