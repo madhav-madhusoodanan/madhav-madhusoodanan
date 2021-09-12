@@ -1,6 +1,6 @@
 ### Wassup, genius? 👀 👋 
 
-I am Madhav Madhusoodanan, but my friends call me...maddy 🙃🙃 <br />
+I am [Madhav Madhusoodanan](https://madhav-madhusoodanan.github.io), but my friends call me...maddy 🙃🙃 <br />
 I aim to change the world by redistributing the power of network governance to the people of the world. 🔥 <br />
 - ⚡ Worked with web dev tech (React, Express, Bootstrap css/Tailwind css) and app dev tech (React Native and Flutter)
 - 🌟 I’m proficient in C/C++, Python and Typescript
