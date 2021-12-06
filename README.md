@@ -11,7 +11,7 @@ I aim to change the world by redistributing the power of network governance to t
 - My alter ego is [Supercalifragilisticpialidocius](https://github.com/Supercalifragilisticpialidocius) <br />
 
 
-[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhav-madhusoodanan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhav-madhusoodanan&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 (btw, I ❤️ playing football 🌟)
