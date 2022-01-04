@@ -2,6 +2,7 @@
 
 I am [Madhav Madhusoodanan](https://madhav-madhusoodanan.github.io), but my friends call me...maddy 🙃🙃 <br />
 I aim to change the world by redistributing the power of network governance to the people of the world. 🔥 <br />
+- ✨ Web3 developer with experience in the Brownie framework
 - ⚡ Worked with web dev tech (React, Express, Bootstrap css/Tailwind css) and app dev tech (React Native and Flutter)
 - 🌟 I’m proficient in C/C++, Python and Typescript
 - 🌱 I’m currently learning 3d graphics, Django, Vuejs, Rust and [Blockchains](https://github.com/madhav-madhusoodanan/blockchain) 😜
