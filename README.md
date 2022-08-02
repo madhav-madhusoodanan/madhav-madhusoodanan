@@ -6,8 +6,8 @@ I aim to change the world by redistributing the power of network governance to t
 - ⚡ Worked with web dev tech (React, Express, Bootstrap css/Tailwind css) and app dev tech (React Native and Flutter)
 - 🌟 I’m proficient in C/C++, Python and Typescript
 - 🌱 I’m currently learning 3d graphics, Django, Rust, Go and [Blockchains](https://github.com/madhav-madhusoodanan/blockchain) 😜
-- 👯 I’m looking to collaborate on [Lucid language design](https://github.com/madhav-madhusoodanan/language-design-committee) and the whitepaper development for my [blockchain](https://github.com/madhav-madhusoodanan/blockchain)
-- 🌟 I'm currently a part of [Genesis](https://github.com/decentralised-everything)
+- 👯 I’m looking to collaborate on [Brainstorm Virtual machine](https://github.com/madhav-madhusoodanan/brainstorm) and the whitepaper development for my [blockchain](https://github.com/madhav-madhusoodanan/blockchain)
+- 🌟 I'm currently a part of [chatmander](https://github.com/decentralised-everything)
 - 😄 I work on random projects like [the brainfuck compiler](https://github.com/madhav-madhusoodanan/brainfuck) and [Prolog](https://github.com/madhav-madhusoodanan/prolog) and [Specter](https://github.com/madhav-madhusoodanan/specter) in my free time 🙃
 - My alter ego is [Supercalifragilisticpialidocius](https://github.com/Supercalifragilisticpialidocius) <br />
 
