@@ -1,7 +1,7 @@
 ### Wassup, genius? 👀 👋 
 <img src="https://komarev.com/ghpvc/?username=madhav-madhusoodanan&style=flat-square&color=blue" alt=""/>
 
-I am [Madhav Madhusoodanan](https://madhav-madhusoodanan.github.io), but my friends call me...maddy 🙃🙃 <br />
+<!-- I am [Madhav Madhusoodanan](https://madhav-madhusoodanan.github.io), but my friends call me...maddy 🙃🙃 <br /> -->
 Just learning by trying things harder than I expect.. 🔥 <br />
 - ✨ Web3 developer with experience in the Hardhat/Foundry framework
 - ⚡ Worked with web dev tech (React, Express, Bootstrap css/Tailwind css) and app dev tech (React Native and Flutter)
