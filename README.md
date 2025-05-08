@@ -2,20 +2,13 @@
 <img src="https://komarev.com/ghpvc/?username=madhav-madhusoodanan&style=flat-square&color=blue" alt=""/>
 
 <!-- I am [Madhav Madhusoodanan](https://madhav-madhusoodanan.github.io), but my friends call me...maddy 🙃🙃 <br /> -->
-- ✨ Fullstack Web3 developer with experience in the Hardhat/Foundry framework
-- 🌟 I’m proficient in C/C++, Rust, Python and Typescript
-- 🌱 I’m currently learning 3d graphics, Django and [Blockchains](https://github.com/madhav-madhusoodanan/blockchain) 
-- 👯 I’m looking to collaborate on [Brainstorm Virtual machine](https://github.com/madhav-madhusoodanan/brainstorm) and the whitepaper development for my [blockchain](https://github.com/madhav-madhusoodanan/blockchain)
+- ✨ I work on satellite mission control during the day, and on compilers during the night.
 <!-- - 🌟 I'm currently a part of [chatmander](https://github.com/decentralised-everything) -->
 - 😄 I work on random projects like [the brainfuck compiler](https://github.com/madhav-madhusoodanan/brainfuck), [Prolog](https://github.com/madhav-madhusoodanan/prolog) and [Specter](https://github.com/madhav-madhusoodanan/specter) in my free time 
 <!-- - My alter ego is [Supercalifragilisticpialidocius](https://github.com/Supercalifragilisticpialidocius) <br /> -->
 <!-- (btw, I ❤️ playing football 🌟) -->
 <br />
-
----
-
-### Languages and Tools :
-<div>
+<!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -31,10 +24,8 @@
    width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-</div>
+</div> -->
 
----
-### Some cool statistics about me:
 
 [![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhav-madhusoodanan&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
