@@ -4,9 +4,10 @@
 <!-- I am [Madhav Madhusoodanan](https://madhav-madhusoodanan.github.io), but my friends call me...maddy 🙃🙃 <br /> -->
 - ✨ I work on satellite mission control during the day, and on compilers during the night.
 <!-- - 🌟 I'm currently a part of [chatmander](https://github.com/decentralised-everything) -->
-- 😄 I work on random projects like [the brainfuck compiler](https://github.com/madhav-madhusoodanan/brainfuck), [Prolog](https://github.com/madhav-madhusoodanan/prolog) and [Specter](https://github.com/madhav-madhusoodanan/specter) in my free time 
+- 😄 I work on random projects like [the brainfuck compiler](https://github.com/madhav-madhusoodanan/brainfuck), [Prolog](https://github.com/madhav-madhusoodanan/prolog) and [Specter](https://github.com/madhav-madhusoodanan/specter) in my free time. 
 <!-- - My alter ego is [Supercalifragilisticpialidocius](https://github.com/Supercalifragilisticpialidocius) <br /> -->
 <!-- (btw, I ❤️ playing football 🌟) -->
+- GSoC '25  @ The Rust Foundation.
 <br />
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
