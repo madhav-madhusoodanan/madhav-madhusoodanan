@@ -7,7 +7,7 @@
 - 😄 I work on random projects like [the brainfuck compiler](https://github.com/madhav-madhusoodanan/brainfuck), [Prolog](https://github.com/madhav-madhusoodanan/prolog) and [Specter](https://github.com/madhav-madhusoodanan/specter) in my free time. 
 <!-- - My alter ego is [Supercalifragilisticpialidocius](https://github.com/Supercalifragilisticpialidocius) <br /> -->
 <!-- (btw, I ❤️ playing football 🌟) -->
-- GSoC '25  @ The Rust Foundation.
+- 🦀 GSoC '25  @ The Rust Foundation.
 <br />
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -30,7 +30,7 @@
 
 [![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhav-madhusoodanan&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=madhav-madhusoodanan)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=madhav-madhusoodanan)](https://git.io/streak-stats) -->
 
 
 <!--  The original halp that github generously gave
