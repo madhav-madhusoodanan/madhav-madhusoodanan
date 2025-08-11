@@ -1,5 +1,4 @@
 ### Hi there! 👀 👋 
-<img src="https://komarev.com/ghpvc/?username=madhav-madhusoodanan&style=flat-square&color=blue" alt=""/>
 
 <!-- I am [Madhav Madhusoodanan](https://madhav-madhusoodanan.github.io), but my friends call me...maddy 🙃🙃 <br /> -->
 - ✨ I work on satellite mission control during the day, and on compilers during the night
